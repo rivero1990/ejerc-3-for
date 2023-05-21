@@ -1,0 +1,27 @@
+body {
+    display: grid;
+    place-content: center;
+    background-color: olive;
+}
+
+#primer-recuadro {
+    border: 2px solid black;
+    height: 50px;
+    background-color: slateblue;
+    padding: 10px;
+}
+
+input {
+    border: 1px solid black;
+}
+
+button {
+    border: 2px solid black;
+}
+
+#contenedor-msjs {
+    background-color: firebrick;
+    border: 2px solid black;
+    margin-top: 30px;
+    text-align: center;
+}
